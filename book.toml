@@ -1,0 +1,14 @@
+[book]
+title = "한국전쟁의 숨겨진 역사"
+author = ["I.F. Stone"]
+language = "ko"
+multilingual = false
+src = "src"
+
+[output.html]
+# 사이트 스타일 커스터마이징 (선택)
+default-theme = "light"
+preferred-dark-theme = "navy"
+mathjax-support = true
+# GitHub에 연결하면 우상단 링크 생성
+git-repository-url = "https://github.com/nalutbae/book-the-hidden-history-of-the-korean-war"
