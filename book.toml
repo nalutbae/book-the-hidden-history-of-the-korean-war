@@ -10,5 +10,3 @@ src = "src"
 default-theme = "light"
 preferred-dark-theme = "navy"
 mathjax-support = true
-# GitHub에 연결하면 우상단 링크 생성
-git-repository-url = "https://github.com/nalutbae/book-the-hidden-history-of-the-korean-war"
