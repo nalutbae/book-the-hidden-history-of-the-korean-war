@@ -10,3 +10,4 @@ src = "src"
 default-theme = "light"
 preferred-dark-theme = "navy"
 mathjax-support = true
+additional-css = ["css/custom.css"]

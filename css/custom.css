@@ -1,0 +1,17 @@
+/* summary 사이드바의 ol 요소를 ul처럼 보이게 변경 */
+nav.sidebar ol {
+  list-style-type: none; /* 숫자 제거 */
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* 들여쓰기 및 마커 추가를 원할 경우 */
+nav.sidebar ol li::before {
+  content: "• "; /* 글머리 기호 대신 점 사용 */
+  color: #666;
+  margin-right: 0.3em;
+}
+/* 사이드바에서 숫자를 숨김 */
+nav.sidebar strong[aria-hidden="true"] {
+  display: none;
+}
