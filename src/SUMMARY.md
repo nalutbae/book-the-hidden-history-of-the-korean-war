@@ -9,3 +9,11 @@
   - [13장. 맥아더의 백지수표](ko/chapter13.md)
   - [14장. 맥아더와 맥 세닛](ko/chapter14.md)
   - [15장. 평화의 경고](ko/chapter15.md)
+- [3부. 전쟁은 미워하지만 평화는 두려워하다](ko/part3.md)
+  - [16장. 38선에서의 역전](ko/chapter16.md)
+  - [17장. 자유선거?](ko/chapter17.md)
+  - [18장. 첫 경고](ko/chapter18.md)
+  - [19장. 유엔의 딜레마](ko/chapter19.md)
+  - [20장. 갑작스러운 계획 변경](ko/chapter20.md)
+  - [21장. 웨이크 섬의 미스터리](ko/chapter21.md)
+  
