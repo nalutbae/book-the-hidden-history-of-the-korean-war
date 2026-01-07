@@ -23,6 +23,8 @@
   - [24장. 중국 로비의 대응](ko/chapter24.md)
   - [25장. 베이징의 용의자들](ko/chapter25.md)
   - [26장. ‘크리스마스 전 귀국’ 공세](ko/chapter26.md)
+  - [27장. 영국으로부터의 위험](ko/chapter27.md)
+  - [26장. 반평화 공세](ko/chapter28.md)
 - [5부. 유령전](ko/part5.md)
   - [29장. 적은 끔찍했다](ko/chapter29.md)
   - [30장. …엉성하게 지핀 불처럼](ko/chapter30.md)
